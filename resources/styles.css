@@ -1,0 +1,32 @@
+
+text {
+  fill: white;
+  font-family: System-Light;
+  font-size: 28;
+}
+
+.centered {
+  text-anchor: middle;
+  x: 50%;
+}
+
+.bigClockText {
+  font-size: 116;
+  font-family: System-Regular;
+}
+
+.smallClockText {
+  font-size: 38;
+  font-family: System-Regular;
+}
+
+#myLabel {
+  text-anchor: middle;
+}
+
+
+
+rect {
+  fill: yellow;
+  opacity: 0.3;
+}

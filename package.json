@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.0.0"
+  },
+  "fitbit": {
+    "appUUID": "452770d6-fe4b-485f-ae69-c4dca9ac8bcc",
+    "appType": "clockface",
+    "appDisplayName": "simpleclock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity",
+      "access_user_profile"
+    ],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "simpleclock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

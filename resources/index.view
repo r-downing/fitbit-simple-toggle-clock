@@ -1,0 +1,17 @@
+<svg id="main">
+  <text id="dateText" class="centered toggles" y="7%" text-length="32"/>
+
+  <text id="myLabel" pointer-events="visible" class="bigClockText" text-length="25"/>
+  <text id="secs" class="smallClockText"/>
+  <text id="ampm" class="smallClockText"/>
+  <text id="bat" class="centered toggles" text-length="10" y="98%"/>
+  
+  
+  <text id="hrm" class="toggles" y="82%" x="3%" text-length="25"></text>
+  <text id="steps" class="toggles" y="82%" x="97%" text-anchor="end" text-length="25"></text>
+  
+  <text id="azm" class="toggles" y="27%" x="3%" text-length="25"/>
+  
+  <text id="cals" class="toggles" y="27%" x="97%" text-anchor="end" text-length="25"/>
+
+</svg>
